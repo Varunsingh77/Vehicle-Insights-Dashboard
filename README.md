@@ -11,7 +11,7 @@ This Power BI dashboard analyzes various performance and sales metrics of car ma
 
 - Power BI Desktop
 - SQL Server / MySQL (used for initial data querying)
-- Data modeling and DAX measures
+
 
 ## 🧠 Key Insights
 
